@@ -1,0 +1,7 @@
+[Activity]
+name = BaltiGames
+activity_version = 1
+service_name = org.laptop.JAMBaltiGames
+class = JAMactivityFlash.JAMactivityFlash
+icon = computer happy
+show_launcher = yes
