@@ -1,7 +1,7 @@
 [Activity]
 name = BaltiGames
 activity_version = 2
-service_name = org.laptop.JAMBaltiGames
-class = JAMactivityFlash.JAMactivityFlash
+bundle_id = org.laptop.JAMBaltiGames
+activity.info = JAMactivityFlash.JAMactivityFlash
 icon = computer happy
 show_launcher = yes
